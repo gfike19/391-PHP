@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<roster>
+    <student>
+        <name>Tanisha Anderson</name>
+        <id>0</id>
+        <grade>13</grade>
+    </student>
+    <student>
+        <name>Michael Brown</name>
+        <id>1</id>
+        <grade>84</grade>
+    </student>
+    <student>
+        <name>Tamir Rice</name>
+        <id>2</id>
+        <grade>76</grade>
+    </student>
+    <student>
+        <name>Gabriella Nevarro</name>
+        <id>3</id>
+        <grade>25</grade>
+    </student>
+    <student>
+        <name>Akai Gurley</name>
+        <id>4</id>
+        <grade>49</grade>
+    </student>
+    <student>
+        <name>Eric Garner</name>
+        <id>5</id>
+        <grade>44</grade>
+    </student>
+    <student>
+        <name>Janisha Fonville</name>
+        <id>6</id>
+        <grade>65</grade>
+    </student>
+    <student>
+        <name>Freddie Gray</name>
+        <id>7</id>
+        <grade>78</grade>
+    </student>
+    <student>
+        <name>Michelle Cusseaux</name>
+        <id>8</id>
+        <grade>9</grade>
+    </student>
+    <student>
+        <name>Alton Sterling</name>
+        <id>9</id>
+        <grade>2</grade>
+    </student>
+    <student>
+        <name>Philandro Castille</name>
+        <id>10</id>
+        <grade>83</grade>
+    </student>
+    <student>
+        <name>Botham Jeane</name>
+        <id>11</id>
+        <grade>43</grade>
+    </student>
+    <student>
+        <name>Stephon Clark</name>
+        <id>12</id>
+        <grade>76</grade>
+    </student>
+    <student>
+        <name>Aura Rosser</name>
+        <id>13</id>
+        <grade>0</grade>
+    </student>
+    <student>
+        <name>Atatiana Jefferson</name>
+        <id>14</id>
+        <grade>44</grade>
+    </student>
+    <student>
+        <name>Breona Taylor</name>
+        <id>15</id>
+        <grade>72</grade>
+    </student>
+    <student>
+        <name>George Floyd</name>
+        <id>16</id>
+        <grade>22</grade>
+    </student>
+    <student>
+        <name>Eli Barnes</name>
+        <id>17</id>
+        <grade>94</grade>
+    </student>
+    <student>
+        <name>James Ward Porter</name>
+        <id>18</id>
+        <grade>90</grade>
+    </student>
+    <student>
+        <name>Henry McNeal Turner</name>
+        <id>19</id>
+        <grade>3</grade>
+    </student>
+    <student>
+        <name>William Gudford</name>
+        <id>20</id>
+        <grade>2</grade>
+    </student>
+    <student>
+        <name>William Henry Harrison</name>
+        <id>21</id>
+        <grade>54</grade>
+    </student>
+    <student>
+        <name>Thomas M. Allen</name>
+        <id>22</id>
+        <grade>93</grade>
+    </student>
+    <student>
+        <name>Thomas Beard</name>
+        <id>23</id>
+        <grade>38</grade>
+    </student>
+</roster>
