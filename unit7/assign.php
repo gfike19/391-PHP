@@ -1,15 +1,13 @@
 <?php
 
 $xml = simplexml_load_file("studentGrades.xml") or die("Error: Cannot create object");
-$total = 0;
 $studentArr = [];
-foreach($xml->children() as $students) {
-    $total += $students->grade;
-    array_push($studentArr, $students->grade);
-  }
-  $numStudents = $xml->count();
 
-  $avg = $total / $numStudents;
+foreach($xml->children() as $students) {
+    array_push($studentArr, (int)$students->grade);
+  }
+
+  $avg = array_sum($studentArr)/count($studentArr);
   $lowest = min($studentArr);
   $highest = max($studentArr);
 
